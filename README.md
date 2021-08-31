@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m an iOS developer in GuangZhou
+- 👨🏻‍💻 I’m an iOS developer in ShenZhen
 - 📚 Swift & iOS & Golang
