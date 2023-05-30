@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
-|![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidevjoe&count_private=true&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidevjoe&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/aidevjoe/github-readme-stats) |
+|![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidevjoe&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidevjoe&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=html,css) |
  | ------- | ------- |
