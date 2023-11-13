@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m an iOS developer in ShenZhen
-- 📚 Swift & iOS & Golang
-- 🌱 I’m currently learning Flutter
+- 👨🏻‍💻 I’m an full stack developer in ShenZhen
+- 📚 Swift & Flutter & Golang
+<!-- 🌱 I’m currently learning Flutter-->
 
 
 
